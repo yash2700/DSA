@@ -1,3 +1,5 @@
+//link for reading https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/
+
 public class CountElementOccurence {
     public static int countElementOccurence(int[] a,int target){
         int i=findIndex(a,target,true);
